@@ -1,3 +1,0 @@
-﻿  main.c
-E:\Cproject\save_read_txt\save_read_txt\main.c(27,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  save_read_txt.vcxproj -> E:\Cproject\save_read_txt\x64\Debug\save_read_txt.exe
